@@ -10,7 +10,9 @@ M. Chen, G. AlRegib, B. Juang, 6DMG: A New 6D Motion Gesture Database, Proceedin
 Motion-based control is gaining popularity, and motion gestures form a complementary modality in human-computer interactions. To achieve more robust userindependent motion gesture recognition in a manner analogous to automatic speech recognition, we need a deeper understanding of the motions in gesture, which arouses the need for a 6D motion gesture database. Presented database contains comprehensive motion data, including the position, orientation, acceleration, and angular speed, for a set of common motion gestures performed by different users. This motion gesture database can be a useful platform for researchers and developers to build their recognition algorithms as well as a common test bench for performance comparisons.
 
 
-## Instructions
+## Dataset Link
+
+Download the database files from Zenodo: https://zenodo.org/records/10471794
 
 ### 6DMG Dataset
 
