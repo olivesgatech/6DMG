@@ -20,6 +20,13 @@ Description:
 Contain 28 participants (21 right-handed and 7 left-handed, 22 male and 6 female)
 Last update (Apr. 25. 2011)
 
+### Air-handwriting
+Description:
+Contain 22 participants (all right-handed, 17 male and 5 female).  Use SQLite to open the .db file.
+
+### Air-fingerwriting
+Description:
+Contain 18 participants (all right-handed, 13 male and 5 female). 
 
 ### 6DMG loader
 
